@@ -68,5 +68,5 @@ end
 group :development do
   gem 'debugger'
   gem 'sqlite3'
-  gem 'mysql2'
+ # gem 'mysql2'
 end
