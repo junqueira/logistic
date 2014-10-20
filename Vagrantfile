@@ -7,7 +7,7 @@ Vagrant.configure("2") do |config|
   # please see the online documentation at vagrantup.com.
 
   # Every Vagrant virtual environment requires a box to build off of.
-  config.vm.box = "wing"
+  config.vm.box = "logistic"
   config.vm.network :forwarded_port, guest: 3000, host: 3000    # rails
   # config.vm.synced_folder ".", "/shared", :nfs => true
 
