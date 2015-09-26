@@ -1,8 +1,25 @@
-Solucao logistica
-===================
+README
 
-Tenho o objevo de criar um solucao de apoio pessoal e tipo strava tem me ajudado na corrida, ou facebook nas noticias. colocando a tecnologia a meu favor e poder melhorar e observar as coisas de forma melhor. 
+This README would normally document whatever steps are necessary to get the application up and running.
 
+Things you may want to cover:
 
-Solucao Android  e Ruby com dados sincronizados
+Ruby version
 
+System dependencies
+
+Configuration
+
+Database creation
+
+Database initialization
+
+How to run the test suite
+
+Services (job queues, cache servers, search engines, etc.)
+
+Deployment instructions
+
+…
+
+Please feel free to use a different markup language if you do not plan to run rake doc:app.
